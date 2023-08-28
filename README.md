@@ -20,8 +20,15 @@
 
 🤝 I'm always eager to connect with fellow learners, developers, and enthusiasts. Let's share insights, collaborate on projects, and inspire each other to reach new heights.
 
-🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/) and [Twitter](https://twitter.com/farhansadzihan), where I love engaging in meaningful discussions about technology, innovation, and everything in between.
+### Connect with Me
 
-🚀 Join me on this exciting journey as we explore the ever-evolving world of code and technology together!
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
+- 🐦 [Twitter](https://twitter.com/farhansadzihan)
+- 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
+- 📺 [YouTube](https://www.youtube.com/channel/yourchannel)
+- 🎮 [Discord](https://discord.gg/yourdiscordserver)
+- 👍 [Facebook](https://www.facebook.com/yourprofile)
+
+🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together!
 
 ![Rocket Emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/rocket_1f680.png)
