@@ -29,6 +29,4 @@
 - 🎮 [Discord](https://discord.gg/yourdiscordserver)
 - 👍 [Facebook](https://www.facebook.com/yourprofile)
 
-🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together!
-
-![Rocket Emoji](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/rocket_1f680.png)
+🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together
