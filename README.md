@@ -4,4 +4,4 @@
 - 💼 Currently working on [Your Project/Job].
 - 📚 Constantly learning and improving my skills.
 
-Let's connect! [LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername)
+Let's connect! [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/) | [Twitter](https://twitter.com/farhansadzihan)
