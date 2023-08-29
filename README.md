@@ -22,7 +22,7 @@
 - 🐦 [Twitter](https://twitter.com/farhansadzihan)
 - 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
 - 📺 [YouTube](https://youtube.com/@FarhanSadidZihan)
-- 🎮 [Discord](https://discord.gg/yourdiscordserver)
-- 👍 [Facebook](https://www.facebook.com/yourprofile)
+- 🎮 [Discord](https://discord.gg/)
+- 👍 [Facebook](https://www.facebook.com/)
 
 🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together
