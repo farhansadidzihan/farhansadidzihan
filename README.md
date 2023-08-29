@@ -8,10 +8,6 @@
 
 🎯 My focus? Striving for excellence in every line of code I write, and consistently pushing my boundaries to create innovative solutions.
 
-## 💼 Academic Pursuits
-
-📚 I'm deeply engaged in my academic pursuits, where I'm honing my skills in various areas of computer science. From coding algorithms to exploring cutting-edge concepts, I'm committed to acquiring a solid foundation that will empower me to create, innovate, and lead.
-
 ## 🚀 What Drives Me
 
 🔍 Curiosity fuels my journey. I believe in the transformative power of technology to shape our future, and I'm excited about the challenges and opportunities that lie ahead. As I continue to learn, I'm eager to collaborate, share knowledge, and contribute to projects that make a difference.
