@@ -21,7 +21,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
 - 🐦 [Twitter](https://twitter.com/farhansadzihan)
 - 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
-- 📺 [YouTube]([https://www.youtube.com/channel/yourchannel](https://youtube.com/@FarhanSadidZihan))
+- 📺 [YouTube](https://youtube.com/@FarhanSadidZihan)
 - 🎮 [Discord](https://discord.gg/yourdiscordserver)
 - 👍 [Facebook](https://www.facebook.com/yourprofile)
 
