@@ -23,6 +23,6 @@
 - 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
 - 📺 [YouTube](https://youtube.com/@FarhanSadidZihan)
 - 🎮 [Discord](https://discord.gg/)
-- 👍 [Facebook]([https://www.facebook.com](https://www.facebook.com/profile.php?id=61550834044157)/)
+- 👍 [Facebook](https://www.facebook.com/profile.php?id=61550834044157)
 
 🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together
