@@ -19,7 +19,7 @@
 ### Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
-- 🐦 [Twitter](https://twitter.com/farhansadzihan)
+- 🐦 [Twitter](https://twitter.com/farhanszihan)
 - 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
 - 📺 [YouTube](https://youtube.com/@FarhanSadidZihan)
 - 🎮 [Discord](https://discord.gg/)
