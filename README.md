@@ -18,11 +18,10 @@
 
 ### Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
-- 🐦 [Twitter](https://twitter.com/farhanszihan)
-- 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
 - 📺 [YouTube](https://youtube.com/@FarhanSadidZihan)
-- 🎮 [Discord](https://discord.gg/)
-- 👍 [Facebook](https://www.facebook.com/profile.php?id=61550834044157)
+- 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
+- 🐦 [Twitter](https://twitter.com/farhanszihan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
+- 👍 [Facebook](https://www.facebook.com/farhanszihan)
 
 🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together 🤝
