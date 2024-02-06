@@ -12,15 +12,4 @@
 
 🔍 Curiosity fuels my journey. I believe in the transformative power of technology to shape our future, and I'm excited about the challenges and opportunities that lie ahead. As I continue to learn, I'm eager to collaborate, share knowledge, and contribute to projects that make a difference.
 
-## 🌟 Let's Connect!
-
-🤝 I'm always eager to connect with fellow learners, developers, and enthusiasts. Let's share insights, collaborate on projects, and inspire each other to reach new heights.
-
-### Connect with Me
-
-- 📸 [Instagram](https://www.instagram.com/farhansadidzihan/)
-- 🐦 [Twitter](https://twitter.com/farhanszihan)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhansadidzihan/)
-- 👍 [Facebook](https://www.facebook.com/farhanszihan)
-
 🌐 Join me on this exciting journey as we explore the ever-evolving world of code and technology together 🤝
