@@ -5,4 +5,6 @@ Data Sources:
 2. Knoemo Dataset: https://knoema.com/
 3. Open Data Soft Dataset: https://data.opendatasoft.com/
 
+Future AI Tools: https://www.futuretools.io/
+
 Created by: Farhan Sadid Zihan
