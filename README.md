@@ -30,6 +30,10 @@
 ![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhansadid&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhansadid&layout=compact&theme=radical)
 
+## 🔥 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhansadid&theme=github)
+
 ## 🛠️ Projects
 
 ### Project 1: [Project Name](https://github.com/farhansadid/project-name)
