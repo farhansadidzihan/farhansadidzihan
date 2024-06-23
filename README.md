@@ -47,8 +47,7 @@ Brief description of the project. What it does, the technologies used, and your 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Farhan Sadid Zihan](https://www.linkedin.com/in/farhansadid)
-- Email: [farhansadid@example.com](mailto:farhansadid@example.com)
+- LinkedIn: [Farhan Sadid Zihan](https://www.linkedin.com/in/farhansadidzihan)
 
 ## 🌟 Let's Connect!
 
