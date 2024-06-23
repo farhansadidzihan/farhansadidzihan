@@ -45,10 +45,6 @@ Brief description of the project. What it does, the technologies used, and your 
 ### Project 3: [Project Name](https://github.com/farhansadid/project-name)
 Brief description of the project. What it does, the technologies used, and your role.
 
-## 📫 How to Reach Me
-
-- LinkedIn: [Farhan Sadid Zihan](https://www.linkedin.com/in/farhansadidzihan)
-
 ## 🌟 Let's Connect!
 
 Feel free to reach out if you want to discuss technology, coding, or potential collaborations. I'm always open to new ideas and opportunities!
