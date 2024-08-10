@@ -1,5 +1,5 @@
 import React from "react";
-import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaGithub } from "react-icons/fa";
 
 const SocialLinks = () => {
   const links = [
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           Instagram <FaInstagram size={30} />
         </>
       ),
-      href: "https://www.instagram.com/farhansadidzihan/",
+      href: "https://www.instagram.com/farhansadidzihan",
     },
     {
       id: 3,
@@ -39,7 +39,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/farhansadidzihan/",
+      href: "https://www.linkedin.com/in/farhansadidzihan",
     },
     {
       id: 5,
@@ -49,6 +49,15 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://facebook.com/farhanszihan",
+    },
+    {
+      id: 5,
+      child: (
+        <>
+          GitHub <FaGithub size={30} />
+        </>
+      ),
+      href: "https://github.com/farhansadidzihan",
       style: "rounded-br-md",
     },
   ];
