@@ -1,13 +1,13 @@
 
 # Hello, I'm Farhan Sadid Zihan 👋
 
-🚀 Welcome to my GitHub profile! I'm a passionate coder and a dedicated learner who's constantly exploring new technologies and striving for personal growth. Let me give you a glimpse into my journey:
+🚀 Welcome to my GitHub profile! I'm a passionate coder and a dedicated learner constantly exploring new technologies and striving for personal growth. Let me give you a glimpse into my journey:
 
 ## 🌱 About Me
 
-📚 I'm currently a student, on a mission to acquire knowledge and build meaningful projects that have a positive impact. My journey into the world of technology has been nothing short of thrilling, and I'm always excited about what's on the horizon.
+📚 I'm currently a student, on a mission to acquire knowledge and build meaningful projects that have a positive impact. My technology journey has been thrilling, and I'm always excited about what's on the horizon.
 
-🎯 My focus? Striving for excellence in every line of code I write, and consistently pushing my boundaries to create innovative solutions.
+🎯 My focus? Striving for excellence in every line of code I write, and consistently push my boundaries to create innovative solutions.
 
 ## 🚀 What Drives Me
 
