@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/farhansadidzihan
 
-- 🎯 Goals: I want to be a great entrepreneur
+- 🎯 My Goal is to be a great entrepreneur
 
 - ⚡My Mission is to get better every day and create a worldwide impact
 
