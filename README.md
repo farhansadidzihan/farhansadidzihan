@@ -12,7 +12,7 @@
 
 - 🎯 Goals: I want to be a great entrepreneur
 
-- ⚡ Fun fact: I love to self development, business and teach.
+- ⚡My Mission is to get better everyday and create worldwide impact
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
