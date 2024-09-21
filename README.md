@@ -22,7 +22,7 @@
 <h3 align="center">A passionate full-stack web Developer from Bangladesh</h3>
 
 
-## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
 
@@ -38,7 +38,7 @@
 
 - ⚡ Fun fact: ...I love to travel and teach.
 
- <a href="https://github.com/RaselKazi" target="_blank">
+ <a href="https://github.com/farhansadidzihan" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RaselKazi?label=Github&style=flat">
   </a>
   <a href="https://github.com/RaselKazi" target="_blank">
