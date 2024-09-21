@@ -8,7 +8,7 @@
 
 - 🌱 I just want to learn more about code
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/farhansadidzihan)
 
 - 🎯 2023 Goals: I want to be a good leader
 
