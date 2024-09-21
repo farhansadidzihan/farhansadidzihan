@@ -4,15 +4,11 @@
 
 ## I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 These days I'm working on different kinds of projects!
-
-- 🌱 I just want to learn more about code
-
 - 👨‍💻 All of my projects are available at https://github.com/farhansadidzihan
 
 - 🎯 Goals: I want to be a great entrepreneur
 
-- ⚡My Mission is to get better everyday and create worldwide impact
+- ⚡My Mission is to get better every day and create a worldwide impact
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
