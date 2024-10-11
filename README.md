@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/farhansadidzihan
 
-- 🎯 My Goal is to build a sustainable business group like: Tata, adani
+- 🎯 My Goal is to build a sustainable business groups like: Tata, adani
   
 - ⚡My Mission is to get better every day and create a worldwide impact
 
