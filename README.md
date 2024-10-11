@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hello+There!;I'm+Zihan" alt="Headline" />
 </h1>
 
-## I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## I am someone who loves to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 All of my projects are available at https://github.com/farhansadidzihan
 
