@@ -4,7 +4,7 @@
 
 ## I am someone who loves to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 AI Model @https://huggingface.co/farhansadidzihan Hackathons @https://devpost.com/farhansadidzihan
+- 👨‍💻 AI Models @https://huggingface.co/farhansadidzihan Hackathons @https://devpost.com/farhansadidzihan
 
 - 🎯 My Goal is to build a sustainable business group like Tata, adani
   
