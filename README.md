@@ -4,9 +4,9 @@
 
 ## I am someone who loves to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 All of my projects are available at https://github.com/farhansadidzihan
+- 👨‍💻(https://huggingface.co/farhansadidzihan)
 
-- 🎯 My Goal is to build a sustainable business group like Tata, adani
+- 🎯My Goal is to build a sustainable business group like Tata, adani
   
 - ⚡My Mission is to get better every day and create a worldwide impact
 
