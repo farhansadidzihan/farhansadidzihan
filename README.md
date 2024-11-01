@@ -4,7 +4,7 @@
 
 ## I am someone who loves to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻(https://huggingface.co/farhansadidzihan)
+- 👨‍💻https://huggingface.co/farhansadidzihan
 
 - 🎯My Goal is to build a sustainable business group like Tata, adani
   
