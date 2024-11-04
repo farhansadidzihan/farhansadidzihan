@@ -10,10 +10,6 @@
   
 - 👨‍💻 Hackathons @https://devpost.com/farhansadidzihan
 
-- 🎯 My Goal is to build a sustainable business group like Tata, adani
-  
-- ⚡ My Mission is to get better every day and create a worldwide impact
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhansadidzihan&theme=radical" alt="farhansadidzihan" /></p>
