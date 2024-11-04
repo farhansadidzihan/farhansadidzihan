@@ -4,11 +4,11 @@
 
 ## I love to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌐 Stack Overflow @https://stackoverflow.com/users/18471807/farhan-sadid-zihan
+- 🌐 Stack Overflow: https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
-- 🤖 AI Models @https://huggingface.co/farhansadidzihan
+- 🤖 AI Models: https://huggingface.co/farhansadidzihan
   
-- 👨‍💻 Hackathons @https://devpost.com/farhansadidzihan
+- 👨‍💻 Hackathons: https://devpost.com/farhansadidzihan
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
