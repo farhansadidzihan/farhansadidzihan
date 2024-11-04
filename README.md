@@ -4,7 +4,7 @@
 
 ## I am someone who loves to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 Stack Overflow @https://stackoverflow.com/users/18471807/farhan-sadid-zihan
+- 🌐 Stack Overflow @https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
 - 🤖 AI Models @https://huggingface.co/farhansadidzihan
   
