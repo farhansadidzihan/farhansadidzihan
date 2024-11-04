@@ -6,9 +6,9 @@
 
 - 👨‍💻 Stack Overflow @https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
-- AI Models @https://huggingface.co/farhansadidzihan
+- 🤖 AI Models @https://huggingface.co/farhansadidzihan
   
-- Hackathons @https://devpost.com/farhansadidzihan
+- 👨‍💻 Hackathons @https://devpost.com/farhansadidzihan
 
 - 🎯 My Goal is to build a sustainable business group like Tata, adani
   
