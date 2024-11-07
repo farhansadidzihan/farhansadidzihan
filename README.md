@@ -4,6 +4,8 @@
 
 ## I love to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- 💻 Replit: https://replit.com/@farhansadidzihan67
+
 - 🌐 Stack Overflow: https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
 - 🤖 AI Models: https://huggingface.co/farhansadidzihan
