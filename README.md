@@ -4,13 +4,13 @@
 
 ## I love to build something world-class & impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💻 Replit: https://replit.com/@farhansadidzihan67
-
 - 🌐 Stack Overflow: https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
 - 🤖 AI Models: https://huggingface.co/farhansadidzihan
   
 - 👨‍💻 Hackathons: https://devpost.com/farhansadidzihan
+
+- 💻 Job Experiences: https://www.theforage.com/achievements
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
