@@ -4,6 +4,14 @@
 
 ## Building Something World-Class & Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- Kaggle: https://www.kaggle.com/farhansadidzihan
+
+- LeetCode: https://leetcode.com/u/farhansadidzihan
+
+- GeeksforGeeks: https://www.geeksforgeeks.org/user/farhansadidzihan67
+
+- CodeChef: https://www.codechef.com/users/farhanzihan
+
 - 👨‍💻 Hackathons: https://devpost.com/farhansadidzihan
 
 - 💻 Job Experiences: https://www.theforage.com/achievements
