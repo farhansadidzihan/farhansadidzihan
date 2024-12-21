@@ -4,6 +4,8 @@
 
 ## Building Something World-Class & Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- Learn: https://www.coursera.org/my-learning
+
 - Kaggle: https://www.kaggle.com/farhansadidzihan
 
 - LeetCode: https://leetcode.com/u/farhansadidzihan
@@ -12,9 +14,9 @@
 
 - CodeChef: https://www.codechef.com/users/farhanzihan
 
-- 👨‍💻 Hackathons: https://devpost.com/farhansadidzihan
+- Hackathons: https://devpost.com/farhansadidzihan
 
-- 💻 Job Experiences: https://www.theforage.com/achievements
+- Job Experiences: https://www.theforage.com/achievements
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
