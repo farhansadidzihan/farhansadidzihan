@@ -5,9 +5,7 @@
 ## Building Something Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ### Founder - CEO - Investor
 
-- [Learn](https://www.coursera.org/my-learning)
-
-- [Code](https://replit.com/@farhansadidzihan67)
+- [Learn](https://www.coursera.org/my-learning) [Code](https://replit.com/@farhansadidzihan67)
 
 - [Kaggle](https://www.kaggle.com/farhansadidzihan)
 
