@@ -12,15 +12,15 @@
 
 - [LeetCode](https://leetcode.com/u/farhansadidzihan)
 
-- [GeeksforGeeks]: https://www.geeksforgeeks.org/user/farhansadidzihan67
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67)
 
 - [CodeChef](https://www.codechef.com/users/farhanzihan)
 
 - [Finance](https://www.msn.com/en-xl/money)
 
-- [Hackathons]: https://devpost.com/farhansadidzihan
+- [Hackathons](https://devpost.com/farhansadidzihan)
 
-- [Job Experiences]: https://www.theforage.com/achievements
+- [Job Experiences](https://www.theforage.com/achievements)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
