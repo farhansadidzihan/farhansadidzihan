@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hi!;I'm+Zihan" alt="Headline" />
 </h1>
 
-## Building Something World-Class & Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Building Something Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Founder - CEO - Investor
 
 - [Learn](https://www.coursera.org/my-learning)
 
