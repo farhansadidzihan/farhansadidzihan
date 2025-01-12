@@ -5,7 +5,7 @@
 ## Building Something Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ### Founder - CEO - Investor
 
-[Learn](https://www.coursera.org/my-learning) - [Code](https://replit.com/@farhansadidzihan67) - [Kaggle](https://www.kaggle.com/farhansadidzihan) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Finance](https://www.msn.com/en-xl/money) - [Hackathons](https://devpost.com/farhansadidzihan) - [Job Experiences](https://www.theforage.com/achievements)
+[Learn](https://www.coursera.org/my-learning) - [Code](https://replit.com/@farhansadidzihan67) - [Kaggle](https://www.kaggle.com/farhansadidzihan) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan) - [Job Experiences](https://www.theforage.com/achievements) - [Finance](https://www.msn.com/en-xl/money)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
