@@ -3,7 +3,7 @@
 </h1>
 
 ## Building Something Impactful <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-### Founder - CEO - Investor
+### Businessman = Founder - CEO - Investor
 
 [Learn](https://www.coursera.org/my-learning) - [Code](https://replit.com/@farhansadidzihan67) - [Kaggle](https://www.kaggle.com/farhansadidzihan) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan) - [Job Experiences](https://www.theforage.com/achievements) - [Finance](https://www.msn.com/en-xl/money)
 
