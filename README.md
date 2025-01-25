@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hi!;I'm+Zihan" alt="Headline" />
 </h1>
 
-## Founder - CEO - Investor
+# Founder - CEO - Investor
 
 [Learn](https://www.coursera.org/my-learning) - [Code](https://replit.com/@farhansadidzihan67) - [Kaggle](https://www.kaggle.com/farhansadidzihan) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan) - [Job Experiences](https://www.theforage.com/achievements) - [Finance](https://www.msn.com/en-xl/money)
 
