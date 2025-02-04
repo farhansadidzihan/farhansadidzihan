@@ -3,7 +3,7 @@
 </h1>
 
 # Muslim Businessman رجل أعمال مسلم
-### [Science](https://online.udvash-unmesh.com/Routine/PastClasses) | [Courses](https://www.coursera.org/my-learning) | [Code](https://replit.com/repls) | [Job Experiences](https://www.theforage.com/achievements)
+### [Science](https://online.udvash-unmesh.com/Routine/PastClasses) | [Courses](https://www.coursera.org/my-learning) | [Code](https://replit.com/repls)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
