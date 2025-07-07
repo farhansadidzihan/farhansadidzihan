@@ -3,8 +3,7 @@
 </h1>
 
 
-### [LeetCode](https://leetcode.com/u/farhansadidzihan) | [GeekforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) | [Startups](https://tracxn.com)
-
+### [LeetCode](https://leetcode.com/u/farhansadidzihan) | [GeekforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&locale=en&theme=radical" alt="farhansadidzihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhansadidzihan&theme=radical" alt="farhansadidzihan" /></p>
