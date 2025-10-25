@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Co-Founder;RoyalStruct" alt="Headline" />
 </h1>
 
-[Kaggle](https://www.kaggle.com/farhansadidzihan) | [LeetCode](https://leetcode.com/u/farhansadidzihan/) | [GFG](https://www.geeksforgeeks.org/user/farhansadidzihan67/) | [ArXiv](https://arxiv.org/) | [IELTS](https://ielts.idp.com/bangladesh) | [SAT](https://www.collegeboard.org/) 
+[ArXiv](https://arxiv.org/) | [IELTS](https://ielts.idp.com/bangladesh) | [SAT](https://www.collegeboard.org/) 
 
 [US](https://apply.commonapp.org/dashboard) - [California](https://apply.universityofcalifornia.edu/my-application/) - [UK](https://www.ucas.com/dashboard#/)
 
