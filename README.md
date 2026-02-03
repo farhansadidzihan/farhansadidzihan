@@ -2,6 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Businessman;Entrepreneur" alt="Headline" />
 </h1>
 
+### University Applications
+
+https://www.commonapp.org/
+
+https://cssprofile.collegeboard.org/?navId=gf-css
+
+https://apply.mitadmissions.org/portal/apply
+
+https://www.ucas.com/
+
+https://tetr.com/
+
+
 ### Opportunities
 
 https://www.startertosf.guide/
