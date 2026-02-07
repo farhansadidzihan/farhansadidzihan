@@ -31,5 +31,5 @@ https://unv.org/
 
 ### Code
 
-[Kaggle](https://www.kaggle.com/farhansadidzihan) | [LeetCode](https://leetcode.com/u/farhansadidzihan/) | [GFG](https://www.geeksforgeeks.org/user/farhansadidzihan67/)
+[Kaggle](https://www.kaggle.com/farhansadidzihan) | [LeetCode](https://leetcode.com/u/farhansadidzihan/) | [GFG](https://www.geeksforgeeks.org/user/farhansadidzihan67/) | [Devpost](https://devpost.com/farhansadidzihan)
 
