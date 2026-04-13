@@ -35,18 +35,6 @@ Welcome to my page; on my Github, you can find:
 
 ---
 
-## 📬 Contact & Social
-
-<p align="center">
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: selikhov.dmitrey@gmail.com"/></a>
-<a href="https://x.com/idimetrix"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @idimetrix"></a>
-<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
-<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
-<a href="https://dmitrii-selikhov.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: dmitrii-selikhov.vercel.app"></a>
-</p>
-
-<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
-
 ## Github stats:
 
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
@@ -225,3 +213,15 @@ Feel free to submit PRs, issues, or email me. For meetings, please describe the 
 </p>
 
 ---
+
+## 📬 Contact & Social
+
+<p align="center">
+<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: selikhov.dmitrey@gmail.com"/></a>
+<a href="https://x.com/idimetrix"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @idimetrix"></a>
+<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
+<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
+<a href="https://dmitrii-selikhov.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: dmitrii-selikhov.vercel.app"></a>
+</p>
+
+<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
