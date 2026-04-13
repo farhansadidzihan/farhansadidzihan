@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hello, my name is Dmitry (Di).
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hi, It's Zihan
 
 **Project Status:**  
 <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status: Updating"></a>
@@ -216,17 +216,7 @@ Feel free to submit PRs, issues, or email me. For meetings, please describe the 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idimetrix&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## 📚 StackOverflow Reputation
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/2564830/dmitry-selikhov">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=2564830&theme=dark" alt="StackOverflow Stats" />
-  </a>
-</p>
-
----
 
 ## 🎯 Expanded GitHub Metrics
 
