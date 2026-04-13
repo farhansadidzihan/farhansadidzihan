@@ -22,17 +22,6 @@ Welcome to my page; on my Github, you can find:
 - Projects created by me
 - Projects contributed by me
 
-## 📑 Table of Contents
-
-- [📬 Contact & Social](#-contact--social)
-- [📊 Github Stats](#github-stats)
-- [🔖 Featured Repositories](#-featured-repositories)
-- [💼 Personal Stats](#personal-stats)
-- [💻 Technology Stack](#-primary-technology-stack)
-- [📊 GitHub Activity Graph](#-github-activity-graph)
-- [🚀 Quick Setup](#-quick-setup)
-- [📄 License](#mit)
-
 ---
 
 ## Github stats:
@@ -40,68 +29,6 @@ Welcome to my page; on my Github, you can find:
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-## 🔖 Featured repositories:
-
-[![CTO, Software Architect, Technical Lead](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=idimetrix)](https://github.com/idimetrix/idimetrix)
-[![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=cv)](https://github.com/idimetrix/cv)
-[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
-[![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
-
----
-
-## Personal Stats
-
-### Professional Summary
-
-With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
-
-<details>
-  <summary>Highlights / Proficiencies / Interests / Believes</summary>
-
-Highlights:
-
-- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
-- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-- ⭐ Delivered over 50+ projects
-- ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
-- ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
-- ⭐ Contribute to open source and private source
-- ⭐ Master new technologies, computer science, and mathematics
-
-Proficiencies:
-
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
-- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
-- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
-- 📚 Angular, RxJS, NgRx
-- 📚 Svelte and Stencil + Storybook + Web Components
-- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
-- 📚 AWS, Azure and GCP
-- 📚 Go lang, Move lang, Rust
-- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
-- 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
-- 📚 Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
-- 📚 Project Leadership
-
-Interests:
-
-- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
-- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
-
-Big believer in:
-
-- 💡 Power of continuous learning and personal growth
-- 💡 Importance of cultivating a positive mindset and embracing optimism
-- 💡 Value of hard work and perseverance in achieving success
-- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
-- 💡 Importance of ethical behavior and integrity in all aspects of life
 
 
 <!--   GitHub stats graph -->
@@ -114,15 +41,11 @@ Big believer in:
 
 <!--   stats + languages -->
 
-| .                                                                                                                                                 | .                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
 
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
 
 <h4 align="center">🏆 Trophy: Github Profile Trophy</h4>
 
@@ -150,18 +73,6 @@ graph TD;
 
 ---
 
-## 💬 Let's Connect
-
-If you liked my profile, you can **Star ⭐** the repo and if you want to use this template you can **Fork** it!
-
-**Interested in collaboration?** I'm open to:
-
-- Contributing to open source projects
-- Technical discussions and consulting
-- Speaking engagements
-- Mentorship opportunities
-
-Feel free to submit PRs, issues, or email me. For meetings, please describe the agenda in advance.
 
 
 ## 📊 Advanced Repository Analytics (OSS Insight)
@@ -192,13 +103,6 @@ Feel free to submit PRs, issues, or email me. For meetings, please describe the 
 
 ---
 
-## 😂 Random Dev Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</p>
-
----
 
 ## 📈 Detailed GitHub Activity Graph
 
