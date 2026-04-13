@@ -1,34 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hi, It's Zihan
 
-**Project Status:**  
-<a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status: Updating"></a>
-<a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue" alt="Contributors"></a>
-<a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github" alt="GitHub Stars"></a>
-<a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github" alt="GitHub Forks"></a>
-
-**Technology:**  
-<img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="Package Manager: pnpm v10+">
-<img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="Node.js: v22+">
-
-**Metrics:**  
-<img src="https://img.shields.io/github/license/idimetrix/idimetrix" alt="License: MIT">
-<img src="https://img.shields.io/github/last-commit/idimetrix/idimetrix" alt="Last Commit">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="Profile Visitors"/>
-
-I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
-
-Welcome to my page; on my Github, you can find:
-
-- Projects created by me
-- Projects contributed by me
-
----
-
-## Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 
 
 <!--   GitHub stats graph -->
@@ -56,16 +27,6 @@ Welcome to my page; on my Github, you can find:
 ## 🤖 Machine Learning Expertise
 
 Experienced in the full machine learning lifecycle, from data collection to production deployment:
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
 
 <img src="./github-metrics.svg" alt="GitHub Metrics and Statistics" width="100%">
 
