@@ -1,4 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hi, It's Zihan
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder;Vice+President" alt="Typing SVG" /></a>
+</p>
 
 
 
@@ -24,13 +27,6 @@
 | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" alt="Star History Chart" /> |
 
 
-## ⚡ Dynamic Introduction
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder;Vice+President" alt="Typing SVG" /></a>
-</p>
-
----
 
 ## 💬 Daily Wisdom
 
@@ -54,4 +50,4 @@
 <a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Farhan Sadid Zihan"></a>
 </p>
 
-<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
+<p align="center"><em> Let's connect on LinkedIn </em></p>
