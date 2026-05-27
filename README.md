@@ -19,6 +19,10 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
+<!--  detailed graph - -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## 📊 Advanced Repository Analytics (OSS Insight)
 
@@ -35,12 +39,6 @@
 </p>
 
 ---
-
-
-## 📈 GitHub Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ## 📬 Contact & Social
