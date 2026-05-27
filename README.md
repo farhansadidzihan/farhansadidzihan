@@ -48,7 +48,7 @@ Experienced in the full machine learning lifecycle, from data collection to prod
 ## ⚡ Dynamic Introduction
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;CTO+%26+Software+Architect+%F0%9F%8F%86;Technical+Lead+%7C+Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder+%F0%9F%8F%86;Vice+President+%7C+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -71,11 +71,8 @@ Experienced in the full machine learning lifecycle, from data collection to prod
 ## 📬 Contact & Social
 
 <p align="center">
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: selikhov.dmitrey@gmail.com"/></a>
-<a href="https://x.com/idimetrix"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @idimetrix"></a>
-<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
-<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
-<a href="https://dmitrii-selikhov.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: dmitrii-selikhov.vercel.app"></a>
+<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: farhansadidzihan@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Farhan Sadid Zihan"></a>
 </p>
 
 <p align="center"><em>I am open to new opportunities and collaborations.</em></p>
