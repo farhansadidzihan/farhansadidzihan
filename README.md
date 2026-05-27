@@ -16,11 +16,6 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="GitHub Profile Trophy for idimetrix" /></a>
-</p>
-
-
 
 ## 📊 Advanced Repository Analytics (OSS Insight)
 
@@ -28,11 +23,6 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" alt="Star History Chart" /> |
 
-| Currently Working On - Last 28 days                                                                                                                                                | Top Active Contributors - Last 28 Days                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" alt="Currently Working On" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" alt="Top Contributors" /> |
-
----
 
 ## ⚡ Dynamic Introduction
 
