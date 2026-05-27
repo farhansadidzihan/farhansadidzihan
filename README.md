@@ -15,21 +15,10 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<h4 align="center">🏆 Trophy: Github Profile Trophy</h4>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="GitHub Profile Trophy for idimetrix" /></a>
 </p>
-
-## 🤖 Machine Learning Expertise
-
-Experienced in the full machine learning lifecycle, from data collection to production deployment:
-
-<img src="./github-metrics.svg" alt="GitHub Metrics and Statistics" width="100%">
-
-[MIT](LICENSE)
-
----
 
 
 
@@ -48,12 +37,12 @@ Experienced in the full machine learning lifecycle, from data collection to prod
 ## ⚡ Dynamic Introduction
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder+%F0%9F%8F%86;Vice+President+%7C+%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder;Vice+President" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## 💬 Daily Programming Wisdom
+## 💬 Daily Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
