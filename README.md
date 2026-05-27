@@ -41,9 +41,9 @@
 ---
 
 
-## 📈 Detailed GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=idimetrix&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
