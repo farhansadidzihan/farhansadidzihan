@@ -68,14 +68,6 @@ Experienced in the full machine learning lifecycle, from data collection to prod
 
 
 
-## 🎯 Expanded GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/idimetrix?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&followup=1&code=1&activity=1&achievements=1&discussions=1&lines=1&traffic=1&repositories=1&gists=1&projects=1&notable=1&introduction=1&sponsors=1&calendar=1&stargazers=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&discussions.categories=true&traffic.views=false&repositories.featured=idimetrix%2Fidimetrix%2C%20idimetrix%2Fcv%2C%20idimetrix%2Fawesome-talents&introduction.title=true&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&calendar.limit=1&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&config.timezone=America%2FNew_York" alt="Detailed GitHub Metrics" />
-</p>
-
----
-
 ## 📬 Contact & Social
 
 <p align="center">
