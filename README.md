@@ -44,8 +44,8 @@
 ## 📬 Contact & Social
 
 <p align="center">
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: farhansadidzihan@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Farhan Sadid Zihan"></a>
+<a href="mailto:farhansadidzihan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: farhansadidzihan@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/fszihan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Farhan Sadid Zihan"></a>
 </p>
 
 <p align="center"><em> Let's connect on LinkedIn </em></p>
