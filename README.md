@@ -1,67 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hi, It's Zihan
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Founder;Vice+President" alt="Typing SVG" /></a>
-</p>
-
-
-
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
-
-
-<!--   profile-green-animate -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-<!--  detailed graph - -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-## 📊 Advanced Repository Analytics (OSS Insight)
-
-| Star Geographic Distribution                                                                                                                                                       | Star History                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" alt="Star History Chart" /> |
-
-
-
-## 💬 Daily Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-
-## 📬 Contact & Social
-
-<p align="center">
-<a href="mailto:farhansadidzihan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: farhansadidzihan@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/fszihan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Farhan Sadid Zihan"></a>
-</p>
-
-<p align="center"><em> Let's connect on LinkedIn </em></p>
-
-
-
-
-
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20Vice%20President%20%7C%20Builder&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20Vice%20President%20%7C%20Researcher&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Founder+%40+Amaze+Consortium;Vice+President+%26+Visionary+Leader;Software+Dev+%7C+Business+Intelligence;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Founder+%40+Amaze+Consortium;Vice+President+%26+Visionary+Leader;Capital+Research+Institute+%7C+CRI;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -88,10 +30,11 @@ class FarhanSadidZihan:
         self.location    = "Dhaka, Bangladesh 🇧🇩"
         self.role        = ["Founder", "Vice President"]
         self.org         = "Amaze Consortium"
+        self.research    = "Capital Research Institute (CRI)"
         self.usps        = ["Hyper Focus", "Systems Thinking", "Builder Mindset"]
         self.learning    = ["Coursera", "edX", "YouTube University 🎓"]
         self.interests   = ["Software Development", "Business Intelligence",
-                            "AI/ML", "Entrepreneurship"]
+                            "AI/ML", "Entrepreneurship", "Capital Research"]
 
     def current_mission(self):
         return "Building things that matter — one commit at a time."
@@ -112,6 +55,7 @@ print(me.current_mission())
 | 🏗️ Focus Area | 📌 Description |
 |---|---|
 | **Amaze Consortium** | Building and leading a next-gen consortium at [amazeconsortium.vercel.app](https://amazeconsortium.vercel.app) |
+| **Capital Research Institute (CRI)** | Driving capital research, analysis & strategic insight |
 | **Software Development** | Crafting code-driven solutions across Python & Business Intelligence stacks |
 | **AI Exploration** | Actively tracking the frontier — GPT-4, Claude, and beyond |
 | **Self-Mastery** | Optimising life through hyper-focus & deliberate learning |
@@ -192,6 +136,7 @@ print(me.current_mission())
 ## 🎯 2026 Goals
 
 - [ ] 🏢 Scale **Amaze Consortium** to new heights
+- [ ] 🔬 Advance research initiatives at **CRI**
 - [ ] 🤖 Ship an AI-powered project
 - [ ] 📚 Complete 3 certifications (Coursera / edX)
 - [ ] 🌍 Grow GitHub presence & contribute to OSS
