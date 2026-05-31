@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20Vice%20President%20%7C%20Researcher&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20%20President%20%7C%20Entrepreneur&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Founder+%40+Amaze+Consortium;Vice+President+%26+Visionary+Leader;Capital+Research+Institute+%7C+CRI;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Vice+President+at+Amaze+Consortium;President+at+Capital+Research+Institute+%7C+CRI;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -101,27 +101,6 @@ print(me.current_mission())
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/farhansadidzihan/farhansadidzihan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📊 Advanced Repository Analytics (OSS Insight)
-
-<div align="center">
-
-| 🌍 Star Geographic Distribution | 📈 Star History |
-|---|---|
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" alt="Star Geographic Distribution" width="400" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" alt="Star History Chart" width="400" /> |
-
-</div>
 
 ---
 
@@ -133,16 +112,6 @@ print(me.current_mission())
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] 🏢 Scale **Amaze Consortium** to new heights
-- [ ] 🔬 Advance research initiatives at **CRI**
-- [ ] 🤖 Ship an AI-powered project
-- [ ] 📚 Complete 3 certifications (Coursera / edX)
-- [ ] 🌍 Grow GitHub presence & contribute to OSS
-- [ ] 🔗 Build a meaningful tech network in Bangladesh & beyond
-
----
 
 ## 🤝 Let's Connect & Build Together
 
