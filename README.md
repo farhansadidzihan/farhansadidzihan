@@ -56,25 +56,8 @@ print(me.current_mission())
 |---|---|
 | **Amaze Consortium** | Building and leading a next-gen consortium at [amazeconsortium.vercel.app](https://amazeconsortium.vercel.app) |
 | **Capital Research Institute (CRI)** | Driving capital research, analysis & strategic insight |
-| **Software Development** | Crafting code-driven solutions across Python & Business Intelligence stacks |
 | **AI Exploration** | Actively tracking the frontier — GPT-4, Claude, and beyond |
 | **Self-Mastery** | Optimising life through hyper-focus & deliberate learning |
-
-</div>
-
----
-
-## 🛠️ Tech & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F75C7E?style=for-the-badge&logo=powerbi&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -89,9 +72,6 @@ print(me.current_mission())
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhansadidzihan&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansadidzihan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" />
 
 </div>
 
