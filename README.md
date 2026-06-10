@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20%20President%20%7C%20Entrepreneur&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%7C%20%20Businessman%20%7C%20Entrepreneur&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Vice+President+at+Amaze+Consortium;President+at+Capital+Research+Institute+%7C+CRI;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Vice+President+at+Amaze+Consortium;Hyper+Focus+Is+My+USP+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansadidzihan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/farhanszihan)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fszihan)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://amazeconsortium.vercel.app)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://amazeconsortium.org)
 
 <img src="https://komarev.com/ghpvc/?username=farhansadidzihan&label=Profile+Views&color=F75C7E&style=flat-square" alt="Profile views" />
 
