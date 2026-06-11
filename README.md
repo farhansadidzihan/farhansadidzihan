@@ -54,7 +54,7 @@ print(me.current_mission())
 
 | 🏗️ Focus Area | 📌 Description |
 |---|---|
-| **Amaze Consortium** | Building and leading a next-gen consortium at [amazeconsortium.vercel.app](https://amazeconsortium.vercel.app) |
+| **Amaze Consortium** | Building and leading a next-gen consortium at [amazeconsortium.org](https://amazeconsortium.org) |
 | **Capital Research Institute (CRI)** | Driving capital research, analysis & strategic insight |
 | **AI Exploration** | Actively tracking the frontier — GPT-4, Claude, and beyond |
 | **Self-Mastery** | Optimising life through hyper-focus & deliberate learning |
