@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:D4AF37&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=F6DC8A&fontAlignY=38&desc=businessman%20%7C%20entrepreneur&descSize=18&descAlignY=58&descColor=D4AF37&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&duration=3500&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=vice+president+at+amaze+consortium;founder%2C+research+de+capital%C3%A9;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&duration=3500&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=vice+president+at+amaze+consortium;president%2C+research+de+capital%C3%A9;" alt="Typing SVG" />
 </a>
 
 <br/>
