@@ -8,14 +8,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/fszihan/)
-[![Gmail](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:farhansadidzihan@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/farhanszihan)
-[![Facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=D4AF37)](https://facebook.com/fszihan)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://amazeconsortium.org)
-
-<br/>
-
 [![Google Scholar](https://img.shields.io/badge/google_scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=D4AF37)](https://scholar.google.com/citations?user=U_pczgQAAAAJ&hl=en)
 [![GeeksforGeeks](https://img.shields.io/badge/geeksforgeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=D4AF37)](https://www.geeksforgeeks.org/profile/farhansadidzihan67)
 [![LeetCode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37)](https://leetcode.com/u/farhansadidzihan)
