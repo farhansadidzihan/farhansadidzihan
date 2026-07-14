@@ -1,26 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:F75C7E&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Businessman%20%7C%20Entrepreneur&descSize=18&descAlignY=58&descColor=F75C7E&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:D4AF37&height=200&section=header&text=Farhan%20Sadid%20Zihan&fontSize=52&fontColor=F6DC8A&fontAlignY=38&desc=businessman%20%7C%20entrepreneur&descSize=18&descAlignY=58&descColor=D4AF37&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Vice+President+at+Amaze+Consortium;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&duration=3500&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=vice+president+at+amaze+consortium;founder%2C+research+de+capital%C3%A9;" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fszihan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansadidzihan@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/farhanszihan)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fszihan)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://amazeconsortium.org)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/fszihan/)
+[![Gmail](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:farhansadidzihan@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/farhanszihan)
+[![Facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=D4AF37)](https://facebook.com/fszihan)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://amazeconsortium.org)
 
-<img src="https://komarev.com/ghpvc/?username=farhansadidzihan&label=Profile+Views&color=F75C7E&style=flat-square" alt="Profile views" />
+<br/>
+
+[![Google Scholar](https://img.shields.io/badge/google_scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=D4AF37)](https://scholar.google.com/citations?user=U_pczgQAAAAJ&hl=en)
+[![GeeksforGeeks](https://img.shields.io/badge/geeksforgeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=D4AF37)](https://www.geeksforgeeks.org/profile/farhansadidzihan67)
+[![LeetCode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37)](https://leetcode.com/u/farhansadidzihan)
+[![CodeChef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=D4AF37)](https://www.codechef.com/users/farhanszihan)
+
+<img src="https://komarev.com/ghpvc/?username=farhansadidzihan&label=profile+views&color=D4AF37&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> about me
 
 ```python
 class FarhanSadidZihan:
@@ -30,7 +37,7 @@ class FarhanSadidZihan:
         self.location    = "Dhaka, Bangladesh 🇧🇩"
         self.role        = ["Founder", "Vice President"]
         self.org         = "Amaze Consortium"
-        self.research    = "Capital Research Institute (CRI)"
+        self.research    = "Research de Capitalé"
         self.usps        = ["Hyper Focus", "Systems Thinking", "Builder Mindset"]
         self.learning    = ["Coursera", "edX", "YouTube University 🎓"]
         self.interests   = ["Software Development", "Business Intelligence",
@@ -48,43 +55,38 @@ print(me.current_mission())
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 what i'm building
 
 <div align="center">
 
-| 🏗️ Focus Area | 📌 Description |
+| 🏗️ focus area | 📌 description |
 |---|---|
-| **Amaze Consortium** | Building and leading a next-gen consortium at [amazeconsortium.org](https://amazeconsortium.org) |
-| **Capital Research Institute (CRI)** | Driving capital research, analysis & strategic insight |
-| **AI Exploration** | Actively tracking the frontier — GPT-4, Claude, and beyond |
-| **Self-Mastery** | Optimising life through hyper-focus & deliberate learning |
+| **amaze consortium** | building and leading a next-gen consortium at [amazeconsortium.org](https://amazeconsortium.org) |
+| **research de capitalé** | independent investment & corporate finance research, built on depth over noise |
+| **ai exploration** | actively tracking the frontier — gpt-4, claude, and beyond |
+| **self-mastery** | optimising life through hyper-focus & deliberate learning |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 github activity graph
 
-![Zihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true&color=F75C7E&line=F75C7E&point=FFFFFF)
+![Zihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=F6DC8A&bg_color=0D1117)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 github stats
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=farhansadidzihan&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=farhansadidzihan&theme=radical&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=F6DC8A&sideNums=F6DC8A&dates=8A8275)](https://git.io/streak-stats)
 
 </div>
-
 
 ---
 
-## 💬 Daily Wisdom
+## 💬 daily wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -92,21 +94,20 @@ print(me.current_mission())
 
 ---
 
-
-## 🤝 Let's Connect & Build Together
+## 🤝 let's connect & build together
 
 <div align="center">
 
-> *"Hyper Focus is my USP — and yours could be too."*
-> — Farhan Sadid Zihan
+> *"hyper focus is my usp — and yours could be too."*
+> — farhan sadid zihan
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fszihan/)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhansadidzihan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/let's_connect_on_linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/fszihan/)
+[![Email](https://img.shields.io/badge/drop_me_an_email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:farhansadidzihan@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:0D1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer" />
 
 </div>
