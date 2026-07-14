@@ -14,8 +14,6 @@
 [![LeetCode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37)](https://leetcode.com/u/farhansadidzihan)
 [![CodeChef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=D4AF37)](https://www.codechef.com/users/farhanszihan)
 
-<img src="https://komarev.com/ghpvc/?username=farhansadidzihan&label=profile+views&color=D4AF37&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
